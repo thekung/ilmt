@@ -1,5 +1,5 @@
 # Information for install BigFix and ILMT
-Author: Worathan Boonwijit  
+Author: WB  
 Date: April 26, 2021
 ___
 This document guide you to install BigFix and IBM License Metric Tool (ILMT) in windows server. For more information about ILMT please click [here](https://www.ibm.com/software/passportadvantage/ibmlicensemetrictool.html)
